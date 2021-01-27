@@ -1,0 +1,1 @@
+In this directory is the emacs project in which I practice and learn about the commands of this spectacular editor
